@@ -8,4 +8,4 @@ We solve Problem sets with C language at here
 
 Created by : 
 
-<a href="https://github.com/cc-Mehdi"> @CC-Mehdi </a> && <a href="https://github.com/alisharifyy"> @alisharifyy </a> 
+<a href="https://github.com/cc-Mehdi"> @CC-Mehdi </a>
